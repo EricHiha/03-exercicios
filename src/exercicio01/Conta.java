@@ -1,6 +1,6 @@
 package exercicio01;
 
-public class conta {
+public class Conta {
     // atributos ou variáveis de instância
     String correntista;
     int numero;
